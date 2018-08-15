@@ -8,7 +8,7 @@ import android.widget.ImageView;
 
 import com.bumptech.glide.Glide;
 
-public class MainActivity extends AppCompatActivity {
+public class gitMainActivity extends AppCompatActivity {
     ImageView imageView;
     int[] imageResIds = {R.drawable.cuba1, R.drawable.cuba2, R.drawable.cuba3};
     int imageIndex = 0;
